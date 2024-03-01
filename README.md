@@ -59,11 +59,14 @@ G40,high,yes,excellent,yes
 
 ### OUTPUT:
 #### EMPLOYEE DATASET:
-![image](https://github.com/dharanielango/WDM_EXP2/assets/94530523/fd18a4e7-4c0e-4b53-b3f2-0dd96fdbf008)
+![image](https://github.com/dharanielango/WDM_EXP2/assets/94530523/280aa5fb-5e5b-42e0-9f21-e90205ef3988)
+
 #### BANKING DATASET:
-![image](https://github.com/dharanielango/WDM_EXP2/assets/94530523/19f8aad3-1037-445e-b0da-e4fda499a168)
+![image](https://github.com/dharanielango/WDM_EXP2/assets/94530523/f913aa17-debb-43de-852d-c8df496ce5a7)
+
 #### BUYING DATASET:
-![image](https://github.com/dharanielango/WDM_EXP2/assets/94530523/890f1aae-90d4-46b8-b9e5-b1fab44cf21f)
+![image](https://github.com/dharanielango/WDM_EXP2/assets/94530523/1b80e52b-8035-4be4-a083-bc8211bd1c4f)
+
 
 ### RESULT: 
 Thus the program has been successfully executed.
